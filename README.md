@@ -17,8 +17,4 @@ Las *rainbow tables* permiten precomputar cadenas de transformación entre contr
 ┣ 📜 README.md ← Este archivo  
 ┣ 📜 Tarea_RainbowTable.ipynb ← Notebook principal con todo el código y análisis  
 
-## 🛡️ Lecciones aprendidas
-
-Este experimento muestra cómo incluso un hash como MD5 puede ser invertido parcialmente si no se acompaña de técnicas como **salt**, **hashes robustos** o **contraseñas complejas**. Las Rainbow Tables, aunque menos usadas hoy en día, siguen siendo útiles para entender la criptografía real y sus vulnerabilidades.
-
 
